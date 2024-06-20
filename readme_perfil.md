@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://github.com/DorianDesings/readme-demos/blob/main/profile-image.jpeg)
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/Jose-Manuel-Gonzalez/Jose-Manuel-Gonzalez/main/15881548864920.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
